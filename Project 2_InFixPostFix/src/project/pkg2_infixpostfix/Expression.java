@@ -1,7 +1,7 @@
 package project.pkg2_infixpostfix;
 /*
- Name : Mohammad Sadeq Nairat
- ID : 1130361
+ Name : Hani Mustafa Yaqbeh
+ ID : 1160155
  */
 
 import java.math.*;
